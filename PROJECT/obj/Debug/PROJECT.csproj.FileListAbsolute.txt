@@ -1,0 +1,7 @@
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\obj\Debug\PROJECT.csprojAssemblyReference.cache
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+D:\mydata\Documents\Visual Studio 2019\Projects\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.CoreCompileInputs.cache
